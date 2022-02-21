@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnSave": true
+}
